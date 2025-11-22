@@ -45,6 +45,7 @@
       </button>
 
       <div v-if="showResults" class="results-section">
+        // eslint-disable-next-line prettier/prettier
         <h3 class="results-title">Результаты расчета:</h3>
         
         <div class="result-item">
